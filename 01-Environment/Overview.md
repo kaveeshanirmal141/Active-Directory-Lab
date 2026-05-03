@@ -24,13 +24,13 @@ The purpose of this environment is not only to build AD from scratch, but to:
 
 | Hostname  |  Role  |  Description  |
 --------------------------------------
-| DC01      | Domain Controller | Handles Active Directory, DNS, and Kerberos (KDC)
+| DC01 - Domain Controller - Handles Active Directory, DNS, and Kerberos (KDC)
 
-| CA01      | Certificate Authority | Enterprise Root CA providing certificate services 
+| CA01 - Certificate Authority - Enterprise Root CA providing certificate services 
 
-| CLIENT01  | Workstation | Domain-joined machine used by low-privileged user
+| CLIENT01 - Workstation - Domain-joined machine used by low-privileged user
 
-| SRV01     | External
+| SRV01 - External
 
 ---
 
