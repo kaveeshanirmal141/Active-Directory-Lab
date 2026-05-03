@@ -41,17 +41,17 @@ To ensure smooth performance while running multiple machines:
 ### DC01
 - RAM: 4 GB
 - CPU: 2 cores
-- Disk: ~50 GB
+- Disk: ~60 GB
 
 ### CA01
 - RAM: 4 GB
 - CPU: 2 cores
-- Disk: ~50 GB
+- Disk: ~60 GB
 
 ### CLIENT01
 - RAM: 4 GB
 - CPU: 2 cores
-- Disk: ~50 GB
+- Disk: ~60 GB
 
 ---
 
