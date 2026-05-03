@@ -23,8 +23,11 @@ The environment consists of three primary virtual machines:
 | Machine | OS | Role |
 ------------------------
 | DC01 - Windows Server 2022 - Domain Controller + DNS 
-| CA01 - Windows Server 2022 - Certificate Authority (ADCS) 
+
+| CA01 - Windows Server 2022 - Certificate Authority (ADCS)
+
 | CLIENT01 - Windows 11 - Domain User Workstation
+
 | SRV01 - Windows Server 2022 - External
 
 Link to download server ISO -- https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
