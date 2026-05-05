@@ -124,7 +124,7 @@ Not IPv6 itself.
 
 ## 🔹 Final Fix (Correct Solution)
 
-Instead of disabling IPv6, DNS behavior was corrected through proper configuration.
+Instead of disabling IPv6, DNS behavior was corrected through proper configuration. (In every server)
 
 ### Steps:
 
@@ -253,6 +253,10 @@ This issue demonstrated how:
 ```text
 Small DNS misconfigurations can break entire Active Directory functionality
 ```
+
+## 🔹 Additional Note
+
+This issue highlighted that DNS misconfiguration can silently break Active Directory even when basic connectivity appears functional.
 
 Understanding and debugging this behavior provided deeper insight into:
 
