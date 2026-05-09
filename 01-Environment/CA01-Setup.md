@@ -63,6 +63,9 @@ homecorp\administrator
 Install-WindowsFeature ADCS-Cert-Authority -IncludeManagementTools
 ```
 
+> **Note:** ADCS role installation can also be performed through the Server Manager GUI.  
+> PowerShell was documented here for consistency, automation visibility, and easier reproducibility.
+
 ---
 
 ## 🔹 Configuring Certificate Services
