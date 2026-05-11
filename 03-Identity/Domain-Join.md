@@ -127,9 +127,3 @@ All lab machines successfully joined:
 ```text
 homecorp.local
 ```
-This enabled:
-
-- Centralized authentication
-- Certificate enrollment
-- Kerberos-based communication
-- ADCS integration
