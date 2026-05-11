@@ -133,3 +133,5 @@ This enabled:
 - Certificate enrollment
 - Kerberos-based communication
 - ADCS integration
+
+This is a MUST !!!
