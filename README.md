@@ -1,6 +1,6 @@
 # Active-Directory-Lab
 A hands-on Active Directory lab documenting the full journey from environment setup to real world exploitation of ADCS misconfigurations.
-
+[Image Alt](https://raw.githubusercontent.com/kaveeshanirmal141/Active-Directory-Lab/refs/heads/main/AD%20art%20(Optional).jpeg)
 > ⚠️ This lab is built for educational purposes to understand how Active Directory environments can be misconfigured and exploited, and how to defend against such scenarios.
 >
 > This project covers:
